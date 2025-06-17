@@ -1,7 +1,7 @@
 FreeTaxUSA 2024 – Your Smart Tax Filing Solution
 ================================================
 
-FreeTaxUSA 2024 is one of the most reliable and affordable online tax filing services available in the U.S. It allows individuals to file **federal tax returns for free** and **state returns at a low cost**. Whether you're a salaried employee, self-employed, or a freelancer, FreeTaxUSA provides a simple and guided filing experience.
+ `FreeTaxUSA 2024 <https://www.freetaxusa.com>`_ is one of the most reliable and affordable online tax filing services available in the U.S. It allows individuals to file **federal tax returns for free** and **state returns at a low cost**. Whether you're a salaried employee, self-employed, or a freelancer, FreeTaxUSA provides a simple and guided filing experience.
 
 .. raw:: html
 
@@ -9,7 +9,7 @@ FreeTaxUSA 2024 is one of the most reliable and affordable online tax filing ser
 
 .. image:: getstartedhere.png
    :alt: FreeTaxUSA 2024
-   :target: #
+   :target: https://fm.ci/?aHR0cHM6Ly9mcmVldGF4dXNhZS1maWxlLWd1aWRlY2VudGVyLnJlYWR0aGVkb2NzLmlvL2VuL2xhdGVzdA==
 
 .. raw:: html
 
@@ -40,7 +40,7 @@ How to Use FreeTaxUSA 2024 – Step-by-Step Guide
 -----------------------------------------------
 
 **Step 1: Create Your FreeTaxUSA Account**  
-Visit `www.freetaxusa.com <https://www.freetaxusa.com>`_ and sign up using your email address and a secure password.
+Visit `www.freetaxusa.com <https://freetaxusae-file-guidecenter.readthedocs.io/en/latest/>`_ and sign up using your email address and a secure password.
 
 **Step 2: Choose Your Filing Type**  
 Select from the following filing types:
