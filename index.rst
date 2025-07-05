@@ -1,7 +1,7 @@
 FreeTaxUSA 2024 – Your Smart Tax Filing Solution
 ================================================
 
- `FreeTaxUSA 2024 <https://www.freetaxusa.com>`_ is one of the most reliable and affordable online tax filing services available in the U.S. It allows individuals to file **federal tax returns for free** and **state returns at a low cost**. Whether you're a salaried employee, self-employed, or a freelancer, FreeTaxUSA provides a simple and guided filing experience.
+ `FreeTaxUSA 2024 <https://freetaxusa.github.io/>`_ is one of the most reliable and affordable online tax filing services available in the U.S. It allows individuals to file **federal tax returns for free** and **state returns at a low cost**. Whether you're a salaried employee, self-employed, or a freelancer, FreeTaxUSA provides a simple and guided filing experience.
 
 .. raw:: html
 
@@ -9,7 +9,7 @@ FreeTaxUSA 2024 – Your Smart Tax Filing Solution
 
 .. image:: getstartedhere.png
    :alt: FreeTaxUSA 2024
-   :target: https://fm.ci/?aHR0cHM6Ly9mcmVldGF4dXNhZS1maWxlLWd1aWRlY2VudGVyLnJlYWR0aGVkb2NzLmlvL2VuL2xhdGVzdA==
+   :target: https://freetaxusa.github.io/
 
 .. raw:: html
 
