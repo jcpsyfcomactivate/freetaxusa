@@ -9,7 +9,7 @@ FreeTaxUSA 2024 – Your Smart Tax Filing Solution
 
 .. image:: getstartedhere.png
    :alt: FreeTaxUSA 2024
-   :target: https://freetaxusa.github.io/
+   :target: https://pre.im/?LMJaCn8AeSiDYCSEoV7slc1h5emD9NvHGY0E26x1JTwBgi2vAKqVJje6YC1hNbhy9cFJqZS45MXybJV5cK
 
 .. raw:: html
 
